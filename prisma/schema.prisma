@@ -1,0 +1,50 @@
+datasource db {
+  provider = "sqlite"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model SiteSettings {
+  id           String @id @default("global")
+  metaTitle    String
+  metaDesc     String
+  spokenPrice  String @default("৳ 5,000")
+  ieltsPrice   String @default("৳ 8,500")
+  grammarPrice String @default("৳ 3,000")
+}
+
+model PageSection {
+  key       String  @id
+  name      String
+  type      String
+  isVisible Boolean @default(true)
+  order     Int
+}
+
+model Lead {
+  id        String   @id @default(uuid())
+  name      String
+  phone     String
+  course    String
+  status    String   @default("New") // "New" | "Contacted" | "Qualified"
+  createdAt DateTime @default(now())
+}
+
+model BlogPost {
+  id        String   @id @default(uuid())
+  title     String
+  slug      String   @unique
+  excerpt   String
+  content   String
+  createdAt DateTime @default(now())
+}
+
+model AuditLog {
+  id        String   @id @default(uuid())
+  action    String
+  target    String
+  admin     String   @default("SuperAdmin")
+  createdAt DateTime @default(now())
+}

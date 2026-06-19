@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "title": "আপনার ইংরেজি শেখার যাত্রা শুরু হোক",
+    "subtitle": "Zero থেকে Fluent হওয়ার complete offline guideline",
+    "ctaText": "Book a Demo Class",
+    "secondaryCta": "Watch Free Class",
+    "videoThumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1200",
+    "youtubeLink": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  "courses": [
+    {
+      "id": 1,
+      "title": "Spoken English & Phonetics",
+      "price": "৳ 5,000",
+      "category": "Spoken",
+      "type": "Residential",
+      "duration": "৩ মাস",
+      "classesPerWeek": "সপ্তাহে ৩ দিন",
+      "seats": "৩০টি আসন",
+      "classType": "অফলাইন ব্যাচ",
+      "image": "/Spoken_English_Phonetics.png",
+      "instructor": "Rana Sir"
+    },
+    {
+      "id": 2,
+      "title": "IELTS Complete Guideline",
+      "price": "৳ 8,500",
+      "category": "IELTS",
+      "type": "Non-Residential",
+      "duration": "৪ মাস",
+      "classesPerWeek": "সপ্তাহে ৪ দিন",
+      "seats": "২৫টি আসন",
+      "classType": "অফলাইন ব্যাচ",
+      "image": "/IELTS_Complete_Guideline.png",
+      "instructor": "Rana Sir"
+    },
+    {
+      "id": 3,
+      "title": "Basic Grammar to Advanced",
+      "price": "৳ 3,000",
+      "category": "Grammar",
+      "type": "Residential",
+      "duration": "৩ মাস",
+      "classesPerWeek": "সপ্তাহে ৩ দিন",
+      "seats": "৪০টি আসন",
+      "classType": "অফলাইন ব্যাচ",
+      "image": "/Basic_Grammar_to_Advanced.png",
+      "instructor": "Rana Sir"
+    }
+  ],
+  "stats": [
+    { "label": "সফল শিক্ষার্থী", "value": "7,500+", "icon": "Users" },
+    { "label": "অভিজ্ঞ মেন্টর", "value": "6+", "icon": "GraduationCap" },
+    { "label": "ঘণ্টার ক্লাস", "value": "15,000+", "icon": "BookOpen" },
+    { "label": "সাফল্যের হার", "value": "95%", "icon": "TrendingUp" }
+  ],
+  "instructor": {
+    "name": "O S Asif",
+    "designation": "Founder & Lead Instructor",
+    "description": "Helping thousands of students achieve fluency through specialized offline and residential programs.",
+    "images": {
+      "main": "/asif.png"
+    }
+  },
+  "features": [
+    { "title": "স্পোকেন ইংলিশ", "englishTitle": "Spoken English", "icon": "MessageSquare" },
+    { "title": "আইইএলটিএস", "englishTitle": "IELTS", "icon": "GraduationCap" },
+    { "title": "ফ্রি হ্যান্ড রাইটিং", "englishTitle": "Free Hand Writing", "icon": "PenTool" },
+    { "title": "জব ইংলিশ", "englishTitle": "Job English", "icon": "Briefcase" },
+    { "title": "কিডস ইংলিশ", "englishTitle": "Kids English", "icon": "Smile" },
+    { "title": "একাডেমিক ইংলিশ", "englishTitle": "Academic English", "icon": "BookOpen" },
+    { "title": "অফলাইন ব্যাচ", "englishTitle": "Offline Batch", "icon": "Users" }
+  ],
+  "gallery": [
+    { "id": 1, "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800", "caption": "গ্রুপ স্টাডি সেশন" },
+    { "id": 2, "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80&w=800", "caption": "আসিফ স্যারের স্পেশাল ক্লাস" },
+    { "id": 3, "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800", "caption": "সফল শিক্ষার্থীদের সংবর্ধনা" },
+    { "id": 4, "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=800", "caption": "ক্লাসরুমে প্র্যাকটিস" },
+    { "id": 5, "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&q=80&w=800", "caption": "ইংরেজি প্র্যাকটিস সেশন" },
+    { "id": 6, "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&q=80&w=800", "caption": "ক্যারিয়ার সেমিনার" }
+  ],
+  "mediaCoverage": [
+    { "id": 1, "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800", "title": "ইংরেজি শেখার সহজ কৌশল নিয়ে আলোচনা", "source": "Somoy TV" },
+    { "id": 2, "image": "https://images.unsplash.com/photo-1556761175-b813f57a32f6?auto=format&fit=crop&q=80&w=800", "title": "একাডেমির শিক্ষার্থীদের সফলতা ও পুরস্কার বিতরণী", "source": "Prothom Alo" },
+    { "id": 3, "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=800", "title": "IELTS-এ কাঙ্ক্ষিত ব্যান্ড স্কোর পাওয়ার উপায়", "source": "Jamuna TV" },
+    { "id": 4, "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80&w=800", "title": "সফল শিক্ষার্থীদের স্মরণীয় মুহূর্ত ও অভিজ্ঞতা শেয়ার", "source": "DBC News" },
+    { "id": 5, "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&q=80&w=800", "title": "আসিফ স্যারের সাথে বিশেষ সাক্ষাৎকার", "source": "Ekattor TV" },
+    { "id": 6, "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=800", "title": "কীভাবে অল্প সময়ে স্পোকেন ইংলিশে ফ্লুয়েন্ট হবেন", "source": "Kaler Kantho" }
+  ],
+  "partnerLogos": [
+    { "name": "Prothom Alo", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Prothom_Alo_Logo.svg" },
+    { "name": "Somoy TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Somoy_TV_Logo.png" },
+    { "name": "Jamuna TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jamuna_TV_Logo.png" },
+    { "name": "DBC News", "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/DBC_News_Logo.png" },
+    { "name": "Ekattor TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ekattor_TV_Logo.png" }
+  ]
+}
