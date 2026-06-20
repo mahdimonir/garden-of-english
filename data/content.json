@@ -4,8 +4,8 @@
     "subtitle": "Zero থেকে Fluent হওয়ার complete offline guideline",
     "ctaText": "Book a Demo Class",
     "secondaryCta": "Watch Free Class",
-    "videoThumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1200",
-    "youtubeLink": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+    "videoThumbnail": "/garden-of-english-banner.png",
+    "youtubeLink": "https://youtu.be/F-z54_k9evE?si=hr_e4p5eXSibd-Wu"
   },
   "courses": [
     {
@@ -19,7 +19,7 @@
       "seats": "৩০টি আসন",
       "classType": "অফলাইন ব্যাচ",
       "image": "/Spoken_English_Phonetics.png",
-      "instructor": "Rana Sir"
+      "instructor": "Asif Sir"
     },
     {
       "id": 2,
@@ -48,6 +48,20 @@
       "instructor": "Rana Sir"
     }
   ],
+  "whyChooseUs": {
+    "title": "কেন Garden of English-এ ভর্তি হবেন?",
+    "subtitle": "অন্যান্য প্রতিষ্ঠানের তুলনায় ইংরেজি শেখার ক্ষেত্রে কেন আমাদের একাডেমি সবচেয়ে এগিয়ে এবং আমাদের বিশেষ পদ্ধতিগুলো কী কী:",
+    "features": [
+      "প্রতিটি ছাত্রের ব্যক্তিগত ইংরেজি দুর্বলতা সনাক্ত করে সমাধান",
+      "অফলাইন এবং আবাসিক (Residential) উপায়ে সম্পূর্ণ ইংরেজি পরিবেশ",
+      "স্মার্ট ও আধুনিক ক্লাসরুমে হাতে-কলমে প্র্যাকটিস সেশন",
+      "আইইএলটিএস এবং স্পোকেন কোর্সের জন্য আসিফ স্যারের স্পেশাল গাইডলাইন",
+      "লাইফ-টাইম ক্লাব মেম্বারশিপ এবং প্র্যাকটিস পার্টনার সুবিধা"
+    ],
+    "badge": "Why Choose Us",
+    "videoThumbnail": "/garden-of-english-banner.png",
+    "youtubeLink": "https://youtu.be/M-KHwboMcb0?si=yL1SG80I7lz9ONTx"
+  },
   "stats": [
     { "label": "সফল শিক্ষার্থী", "value": "7,500+", "icon": "Users" },
     { "label": "অভিজ্ঞ মেন্টর", "value": "6+", "icon": "GraduationCap" },
@@ -72,16 +86,16 @@
     { "title": "অফলাইন ব্যাচ", "englishTitle": "Offline Batch", "icon": "Users" }
   ],
   "gallery": [
-    { "id": 1, "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800", "caption": "গ্রুপ স্টাডি সেশন" },
-    { "id": 2, "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80&w=800", "caption": "আসিফ স্যারের স্পেশাল ক্লাস" },
-    { "id": 3, "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800", "caption": "সফল শিক্ষার্থীদের সংবর্ধনা" },
-    { "id": 4, "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=800", "caption": "ক্লাসরুমে প্র্যাকটিস" },
-    { "id": 5, "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&q=80&w=800", "caption": "ইংরেজি প্র্যাকটিস সেশন" },
-    { "id": 6, "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&q=80&w=800", "caption": "ক্যারিয়ার সেমিনার" }
+    { "id": 1, "image": "/group-study.png", "caption": "গ্রুপ স্টাডি সেশন" },
+    { "id": 2, "image": "/asif-sir-class.png", "caption": "আসিফ স্যারের স্পেশাল ক্লাস" },
+    { "id": 3, "image": "/success-students.png", "caption": "সফল শিক্ষার্থীদের সংবর্ধনা" },
+    { "id": 4, "image": "/classroom.png", "caption": "ক্লাসরুমে প্র্যাকটিস" },
+    { "id": 5, "image": "/speaking-practice.png", "caption": "ইংরেজি প্র্যাকটিস সেশন" },
+    { "id": 6, "image": "/career-seminar.png", "caption": "ক্যারিয়ার সেমিনার" }
   ],
   "mediaCoverage": [
-    { "id": 1, "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800", "title": "ইংরেজি শেখার সহজ কৌশল নিয়ে আলোচনা", "source": "Somoy TV" },
-    { "id": 2, "image": "https://images.unsplash.com/photo-1556761175-b813f57a32f6?auto=format&fit=crop&q=80&w=800", "title": "একাডেমির শিক্ষার্থীদের সফলতা ও পুরস্কার বিতরণী", "source": "Prothom Alo" },
+    { "id": 1, "image": "/garden-of-english-banner.png", "title": "ইংরেজি শেখার সহজ কৌশল নিয়ে আলোচনা", "source": "Somoy TV" },
+    { "id": 2, "image": "/asif-sir-class.png", "title": "একাডেমির শিক্ষার্থীদের সফলতা ও পুরস্কার বিতরণী", "source": "Prothom Alo" },
     { "id": 3, "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=800", "title": "IELTS-এ কাঙ্ক্ষিত ব্যান্ড স্কোর পাওয়ার উপায়", "source": "Jamuna TV" },
     { "id": 4, "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80&w=800", "title": "সফল শিক্ষার্থীদের স্মরণীয় মুহূর্ত ও অভিজ্ঞতা শেয়ার", "source": "DBC News" },
     { "id": 5, "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&q=80&w=800", "title": "আসিফ স্যারের সাথে বিশেষ সাক্ষাৎকার", "source": "Ekattor TV" },
